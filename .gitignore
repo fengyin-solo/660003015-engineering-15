@@ -67,6 +67,8 @@ pnpm-lock.yaml
 # Build / Cache / Output
 # =========================
 dist/
+.build-stage-*
+dist.old-*/
 build/
 out/
 target/
